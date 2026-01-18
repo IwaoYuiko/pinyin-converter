@@ -1,4 +1,4 @@
-# pinyin-converter +Log
+# Chinese Pinyin Converter – 拼音Log
 アプリのプライバシーポリシーとお問合せ先を公開するためのページです。
 
 ## Contact
