@@ -1,4 +1,4 @@
-# pinyin-converter
+# pinyin-converter +Log
 アプリのプライバシーポリシーとお問合せ先を公開するためのページです。
 
 ## Contact
